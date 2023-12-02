@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+        width: 80%;
+        position: relative;
+        left: 10%;
+        font-family: Arial, sans-serif;
+    }
+
+    h2 {
+        text-align: left;
+    }
+
+    form {
+        border: 1px solid #ccc;
+        background-color: #f0f0f0;
+        padding: 20px;
+        text-align: center;
+    }
+
+    #tab {
+        position: relative;
+        left: 30%;
+    }
+
+    #t1 {
+        text-align: right;
+        width: 180px;
+    }
+
+    #t2 {
+        text-align: left;
+        max-width: 100%;
+    }
+    .icon {
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
